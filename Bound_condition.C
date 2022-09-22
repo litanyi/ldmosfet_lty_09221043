@@ -13,6 +13,8 @@
 using namespace std;
 using namespace JAUMIN;
 
+using namespace dad;
+
 bound_condition::bound_condition(){
     string voltage_dir = "../input/Vgd.txt";
 
